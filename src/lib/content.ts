@@ -64,11 +64,6 @@ export const COPY = {
   process: {
     lead: "Getting industrial coating contractor insurance shouldn't slow your business down. Our process is built to move fast.",
   },
-  testimonials: {
-    eyebrow: "What coating contractors say",
-    h2Lead: "Trusted by Coating",
-    h2Highlight: "Contractors Nationwide",
-  },
   finalCta: {
     h2Lead: "Ready to Protect Your",
     h2Highlight: "Coating Business?",
@@ -149,7 +144,7 @@ export const COPY = {
     errorMessage: "Something went wrong submitting your quote request. Please call us directly at 844-967-5247.",
     businessPlaceholder: "ABC Industrial Coatings LLC",
     emailPlaceholder: "you@yourcoatingbusiness.com",
-    phonePlaceholder: "(555) 000-0000",
+    phonePlaceholder: "Best number to reach you",
     messagePlaceholder:
       "Tell us about your coating operation — types of coatings (epoxy, urethane, zinc), typical project types (floors, structures, tanks, pipelines), number of employees, annual revenue...",
   },

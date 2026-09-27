@@ -215,24 +215,3 @@ export const STATS = [
   { value: 15, suffix: " min", label: "Average quote turnaround", prefix: "" },
   { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
 ] as const;
-
-export const TESTIMONIALS = [
-  {
-    quote: "We apply epoxy coatings in food processing plants and wastewater facilities. The chemical exposure and slip-and-fall risk are real. Our old GL carrier kept questioning whether coating fumes were a pollution condition. Industrial Coating Insurance put us with a carrier that knows the difference — CPL is separate, GL is clean, no more coverage debates.",
-    name: "Marcus T.",
-    role: "Owner, Industrial Coating Co.",
-    location: "Texas",
-  },
-  {
-    quote: "We had a professional liability claim when a floor coating delaminated in a manufacturing plant six months after application. The client claimed $200,000 in lost production and re-coating costs. Our E&O policy through CCA defended the claim and settled without threatening our business. That's what professional liability is for.",
-    name: "Rachel B.",
-    role: "President, Protective Coatings Inc.",
-    location: "Ohio",
-  },
-  {
-    quote: "Workers comp for coating crews is a specialty risk. Chemical exposure, respiratory claims, scaffold falls — generic carriers either decline or overcharge. CCA placed us with a carrier that actually understands coating operations. Our experience modification went down year two because the carrier knew our safety program was real.",
-    name: "James D.",
-    role: "Safety Director",
-    location: "Louisiana",
-  },
-] as const;
